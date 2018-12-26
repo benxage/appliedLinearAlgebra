@@ -12,7 +12,7 @@ Applied Linear Algebra functions in MATLAB. Course book is found [here](https://
 
 ## Notes ##
 
-notes includes the lecture materials used, but not complete or comprehensive.
+Notes includes the lecture materials used, but not complete or comprehensive.
 
 ## Assignments ##
 
