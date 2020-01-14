@@ -9,11 +9,3 @@ Applied Linear Algebra functions in MATLAB. Course book is found [here](https://
 4. discrete dynamical systems
 5. matrix exponents and rotations
 6. matrix rotation and image compression
-
-## Notes ##
-
-Notes includes the lecture materials used, but not complete or comprehensive.
-
-## Assignments ##
-
-Includes homeworks and groupworks.
